@@ -1,2 +1,2 @@
-# 3px.github.io
+# MySite
 3px Web site
